@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarasi  
 
-<!--
-**sarasiyashodha/sarasiyashodha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring **QA Enthusiastic** | 🌱 Exploring **ML & AI** | 🎯 Passionate about **Software Testing & Development**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Undergraduate in Software Engineering  
+- 🔍 Focused on **Quality Assurance, Automation, and Explainable AI**  
+- 🌟 Projects:  
+  - 📝 Mobile diary/note-taking app  
+  - 🛒 eCommerce website  
+  - 🐞 Research on bug priority prediction using Explainable AI  
+
+---
+
+## 🛠️ Skills
+
+**Programming & Scripting:** Java · Dart · JavaScript · PHP  
+**Frontend & Mobile:** Flutter · HTML · CSS · Bootstrap  
+**Testing & Tools:** Postman · Selenium · Jira · Git  
+**Databases:** MySQL · Firebase  
+**Operating Systems:** Linux (basic) · Windows  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)  
+
+---
+
+## 🌐 Connect With Me
+[LinkedIn](YOUR_LINKEDIN_LINK) · [Portfolio](YOUR_PORTFOLIO_LINK) · [Email](mailto:YOUR_EMAIL@gmail.com)  
+
+---
